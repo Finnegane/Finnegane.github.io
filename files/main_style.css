@@ -26,7 +26,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  .paragraph a:hover, div.paragraph a:hover { text-decoration: underline; }
  .paragraph a:hover, p a:hover { text-decoration: underline; }
  .wsite-background, .shade { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
- .wsite-background { z-index: 0; background: url(theme/images/bg.jpg) center center no-repeat; background-size: cover; }
+ .wsite-background { z-index: 0; background: url(theme/images/bg-gray.jpg?1530983772) center center no-repeat; background-size: cover; }
  .shade { position: absolute; z-index: 1; background: rgba(51,51,51,0.6); background: linear-gradient(to bottom,rgba(51,51,51,0.2) 0%,rgba(51,51,51,0) 100%); }
  .hamburger, #logo { position: absolute; }
  .hamburger { top: 40px; left: 40px; z-index: 6; }
